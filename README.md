@@ -17,8 +17,8 @@ The prompt includes **dual-layer adaptability**:
 - **For Advanced learners** - get deeper hints around efficiency, structure, and best practices.  
 This flexibility ensures the same prompt can work across diverse learners. 
 
+<img src="assets/promptexample.png" alt="Alt text for image" width="500px">
 
-![alt text](assets/promptexample.png)
 --- 
 
 
@@ -43,8 +43,28 @@ Few of the major resources are:-
 - Noah Shinn (2023) — Reflexion: Language Agents with Verbal Reinforcement (self‑critique and memory for iterative improvement).
 - Anthropic (2023) — Claude’s Constitution / Constitutional AI (principled self‑critique and aligned prompting).
 - OpenAI (2025) — Best practices for prompt engineering (clarity, structure, decomposition, evaluation).
+---
+## Testing of Our Prompt - ChatGPT (GPT5 Model)
 
----  
+### 01 Prompting the Model - Getting It Ready
+<img src="assets/01P.png" alt="Alt text for image" width="600px">
+
+### 02 Providing it with the Buggy Code - Guided Debugging Starts
+<img src="assets/02P.png" alt="Alt text for image" width="600px">
+
+### 03 Knowing the Errors - Guided Debugging Phase
+<img src="assets/03P.png" alt="Alt text for image" width="600px">
+
+### 04 Making Calculated Guess - Guided Debugging Phase
+<img src="assets/04P.png" alt="Alt text for image" width="600px">
+
+### 05 Providing it with the Correct Code - Got the Correct Answer
+<img src="assets/05P.png" alt="Alt text for image" width="600px">
+
+### 06 Further understanding Edge Cases - Additional Questions Around It
+<img src="assets/06P.png" alt="Alt text for image" width="600px">
+
+---
 
 ## Conclusion 
 This prompt is **student-centered**: it guides without revealing answers, adapts to skill levels, and builds problem-solving capacity. By blending educational principles with prompt-engineering best practices, it ensures the AI acts as a **true debugging mentor** not as a direct answer tool, cause we want kids to have develop that thinking ability, we don't want them to just mug up the answers or approach method to particular questions.
