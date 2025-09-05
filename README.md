@@ -17,6 +17,8 @@ The prompt includes **dual-layer adaptability**:
 - **For Advanced learners** - get deeper hints around efficiency, structure, and best practices.  
 This flexibility ensures the same prompt can work across diverse learners. 
 
+
+![alt text](assets/promptexample.png)
 --- 
 
 
