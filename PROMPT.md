@@ -1,5 +1,5 @@
 # AI Debugging Mentor Prompt 
-### This PROMPT.md contains two prompts, one which is very elaborated & conceptual & is primarily for umderstanding purpose, another which is short, crisp & concise & is more practical real life usecase. 
+### This PROMPT.md contains two prompts, one which is very elaborated & conceptual & is primarily for understanding purpose, another version 2 which is short, crisp & concise & have more practical real life usecase. 
 
 <img src="assets/promptbi.png" alt="Alt text for image" width="400px">
 
