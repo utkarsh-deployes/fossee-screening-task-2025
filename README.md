@@ -30,7 +30,7 @@ This design is grounded in established **prompt engineering frameworks from 2022
 - **Scaffolded hints** - Borrowed from educational scaffolding theories, the assistant provides **progressive hints** instead of full solutions. 
 - **Framework Inspiration** - Elements of the **o1 Anatomy (Brockman, 2025)** and **Microsoft GCES (2024)** frameworks shaped the structured format (role → task → constraints → guidance). 
  
-For a detailed discussion of these frameworks, see (./ResearchBackup_FOSSEE.pdf), which I authored as supporting research for this task & every submission & prompt is based on that research snippet authored by me, by taking references from various sources on the web.
+<mark>*For a detailed discussion of these frameworks, see (./ResearchBackup_FOSSEE.pdf), which I authored as supporting research for this task & every submission & prompt is based on that research snippet authored by me, by taking references from various sources on the web.*</mark>
 
 Few of the major resources are:-
 - Jason Wei (2022) — Chain‑of‑Thought Prompting Elicits Reasoning in Large Language Models.
